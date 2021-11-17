@@ -7,7 +7,7 @@
 
 
 
-* Análise e desenvolvimento de sistemas (Trancado).
+* Análise e desenvolvimento de sistemas em formação.
 * Apaixonado por computadores e tecnologia desde criança
 * 12 anos com experiência em suporte field service/infra.
 * Cubos - Academy
