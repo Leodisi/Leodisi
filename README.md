@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leonardo Dias!
 <br>
-<code><a  href='https:/https://www.linkedin.com/in/leonardo-dias-b60611205//'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a> <img src='https://www.codewars.com/users/CodenameFox/badges/small'><br></code><br>
+<code><a  href='https:/https://www.linkedin.com/in/leonardo-dias-b60611205//'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a> <img src='https://www.codewars.com/users/CrazyDog/badges/small'><br></code><br>
 
 <br>
 
